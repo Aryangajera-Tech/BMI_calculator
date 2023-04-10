@@ -1,6 +1,11 @@
 # bmi_calculate
+# output
+![bmi_calc](https://user-images.githubusercontent.com/104633827/230837439-7f5b79b6-4dd2-4dfa-a37b-19e08406ad87.png)
+![Screenshot 2023-04-10 113206](https://user-images.githubusercontent.com/104633827/230837453-1a5ee205-2170-4a03-aef3-349e9f2cf067.png)
+
 
 A new Flutter project.
+
 
 ## Getting Started
 
